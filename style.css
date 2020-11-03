@@ -1,0 +1,57 @@
+header{
+    width: 100%;
+    background-image: url(./images/bg-hero-desktop.svg);
+}
+
+.logo{
+    width: 150px;
+}
+
+.btn-tryitfree{
+    width: 200px;
+    height: 45px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.header-text{
+    margin-top: 40px;
+}
+
+.header-h1{
+    font-weight: bold;
+    font-size: 43px;
+}
+
+.header-p{
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.button-getstarted{
+    margin-top: 30px;
+    background-color: rgb(228, 46, 173);
+    color: white !important; 
+    font-weight: bold;
+    width: 300px;
+    height: 50px;
+}
+
+
+
+.text-h2{
+    font-weight: bold;
+    margin-left: 38px;
+
+}
+
+.text-p{
+    margin-top: 30px;
+    color:gray;
+    font-size: 20px;
+    margin-left: 38px;
+}
+
+.img-illustration{
+    padding:30px;
+}
